@@ -7,3 +7,4 @@ matplotlib
 streamlit
 scikeras
 nltk
+altair==4.2.2
